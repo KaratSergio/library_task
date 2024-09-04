@@ -1,0 +1,50 @@
+[
+  {
+    "isbn": "978-1-56619-909-4",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "978-1-4028-9467-8",
+    "title": "1984",
+    "author": "George Orwell",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "978-0-14-017739-8",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "978-0-679-72343-7",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "978-0-316-76948-0",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "isBorrowed": true
+  },
+  {
+    "isbn": "978-0-15-101026-4",
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "978-1-5011-7486-6",
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "isBorrowed": true
+  },
+  {
+    "isbn": "978-0-06-230167-3",
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "isBorrowed": false
+  }
+]
